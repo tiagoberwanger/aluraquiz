@@ -57,7 +57,10 @@ export default function Home() {
           animate="show"
         >
           <Widget.Header>
-            <h1>{db.title}</h1>
+          <a href="https://fontmeme.com/family-guy-font/">
+            <img src="https://fontmeme.com/permalink/210206/749569e1e27961d98b1b11e7aec68fec.png" alt="family-guy-font" border="0">
+            </img>
+          </a>
           </Widget.Header>
           <Widget.Content>
             <p>{db.description}</p>
@@ -70,7 +73,7 @@ export default function Home() {
               <Input
                 name="nomeDoUsuario"
                 onChange={(infosDoEvento) => setName(infosDoEvento.target.value)}
-                placeholder="Diz ai seu nome"
+                placeholder="Escreva seu nome..."
                 value={name}
               />
               <Button type="submit" disabled={name.length === 0}>

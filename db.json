@@ -1,28 +1,126 @@
 {
   "bg": "https://i.pinimg.com/originals/c0/a1/ba/c0a1baaa3abe013d415d20bc540c07f9.jpg",
   "title": "Family Guy Quiz",
-  "description": "Teste os seus conhecimentos sobre a série aclamada da FOX",
+  "description": "Teste os seus conhecimentos sobre a aclamada série da FOX criada por Seth Macfarlane.",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://c4.wallpaperflare.com/wallpaper/761/552/962/futurama-cartoon-crossover-family-guy-the-simpsons-hd-wallpaper-preview.jpg",
+      "title": "O episódio crossover mais famoso que Family Guy já teve foi com?",
+      "description": "",
+      "answer": 3,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "The Ranch",
+        "Game Of Thrones",
+        "Futurama",
+        "Os Simpsons"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/l2Sq5FPNK9oPgQSru/giphy.gif",
+      "title": "Qual é a profissão de Lois Griffin?",
+      "description": "",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Professora de piano",
+        "Instrutora de dança",
+        "Chef de cozinha",
+        "Professora de jardim de infância"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/6Lsohtectad3i/giphy.gif",
+      "title": "Peter Griffin trabalha em um(a)...",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Lava Rápido",
+        "Cervejaria",
+        "Usina Nuclear",
+        "Hamburgueria"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l2Sq4fHpeKTNQs6Zy/giphy.gif",
+      "title": "Qual o nome da atriz que interpreta Meg Griffin?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+        "kaley Cuoco",
+        "Amy Poehler",
+        "Kristen Bell",
+        "Mila Kunis"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l0MYC3y4JogcBGeKA/giphy.gif",
+      "title": "Qual o nome da galinha gigante e desafeto de Peter?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Doodle-Doo",
+        "Klaus",
+        "Ernie",
+        "Mitchel"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/7Kp.gif",
+      "title": "Qual é o nome do urso de pelúcia de Stewie?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Brian",
+        "Rupert",
+        "Herbert",
+        "Snowball"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oxHQxoS7nLpzF7Aju/giphy.gif",
+      "title": "Qual a cidade que a família Griffin vive?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "New York",
+        "Quahog",
+        "Cleveland",
+        "Springfield"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/gFQd7bUNkGeofst5AM/giphy.gif",
+      "title": "Qual animal vive no armário de Chris Griffin?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Um macaco",
+        "Um urso",
+        "Um tigre",
+        "Um gato"
+      ]
+    },
+    {
+      "image": "http://38.media.tumblr.com/42764b1e9dedba491fa0339c603954bd/tumblr_nlhpg33vS31so18vqo1_500.gif",
+      "title": "Qual o nome do bar que Peter e seus amigos frequentam?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Hammered Goat",
+        "Moe's Tavern",
+        "Drunken Clam",
+        "Wrecked Whale"
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/BPUh.gif",
+      "title": "Qual personagem saiu do show pra fundar sua própria série?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Glenn Quagmire",
+        "Cleveland Brown",
+        "Stewie Griffin",
+        "Tom Tucker"
       ]
     }
   ],
